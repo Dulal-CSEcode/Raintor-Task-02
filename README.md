@@ -120,4 +120,4 @@ Sender View	Receiver View
 https://sender-screenshot.png	https://receiver-screenshot.png
 ```
 📄 License
-MIT License © 2025 [Your Name]
+MIT License © 2025 [MD Dulal Hossain]
