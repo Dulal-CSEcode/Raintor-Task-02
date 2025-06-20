@@ -1,7 +1,5 @@
 # 🌍 Real-Time Location Sharing App (SignalR + React)
 
-![App Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2bW5tZ3VkYjFmZ2V6b3RqY2VjZGN4b2R6eGJtYzB1dWZ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
-
 A React application demonstrating real-time GPS location sharing between users using SignalR and Leaflet maps.
 
 ## 🎯 Features
