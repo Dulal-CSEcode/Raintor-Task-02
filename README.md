@@ -1,6 +1,6 @@
 # 🌍 Real-Time Location Sharing App (SignalR + React)
 
-A React application demonstrating real-time GPS location sharing between users using SignalR and Leaflet maps..
+A React application demonstrating real-time GPS location sharing between users using SignalR and Leaflet maps...
 
 ## 🎯 Features
 
